@@ -17,6 +17,14 @@ Neste projeto, você vai encontrar uma aplicação de "Amigo Secreto" (ou "Secre
 - **JavaScript**: Funcionalidades interativas (adicionar amigos, realizar sorteio e disparar confetes).
 - **Canvas Confetti**: Biblioteca para criar o efeito visual de confetes.
 
+## Deployment 🚀
+
+Você pode acessar a aplicação através do seguinte link:
+
+[Amigo Secreto - Sorteador](https://sorteador-amigo-secreto-kohl.vercel.app/)
+
+Experimente adicionar nomes à lista e realizar o sorteio diretamente no ambiente online!
+
 ## Como Usar ⚙️
 
 1. **Clone o Repositório**:
