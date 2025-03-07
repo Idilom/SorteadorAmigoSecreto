@@ -21,7 +21,7 @@ Neste projeto, você vai encontrar uma aplicação de "Amigo Secreto" (ou "Secre
 
 1. **Clone o Repositório**:
 
-- git clone <https://github.com/Idilom/amigo-secreto.git>
+- git clone <https://github.com/Idilom/SorteadorAmigoSecreto.git>
 
 2. **Abra o arquivo HTML no seu navegador**:
 
