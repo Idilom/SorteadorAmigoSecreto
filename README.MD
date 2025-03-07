@@ -21,7 +21,9 @@ Neste projeto, você vai encontrar uma aplicação de "Amigo Secreto" (ou "Secre
 
 Você pode acessar a aplicação através do seguinte link:
 
-[Amigo Secreto - Sorteador](https://sorteador-amigo-secreto-kohl.vercel.app/)
+[Sorteador de Amigo Secreto](https://sorteador-amigo-secreto-kohl.vercel.app/)
+
+Disponivel por meio da Vercel
 
 ## Como Usar ⚙️
 
