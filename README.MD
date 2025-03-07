@@ -23,8 +23,6 @@ Você pode acessar a aplicação através do seguinte link:
 
 [Amigo Secreto - Sorteador](https://sorteador-amigo-secreto-kohl.vercel.app/)
 
-Experimente adicionar nomes à lista e realizar o sorteio diretamente no ambiente online!
-
 ## Como Usar ⚙️
 
 1. **Clone o Repositório**:
