@@ -184,3 +184,26 @@ ul {
   font-weight: bold;
   box-shadow: none;
 }
+
+.socials {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  position: absolute;
+  bottom: 10px;
+  right: 20px;
+}
+
+.icon {
+  width: 64px;
+  height: 64px;
+}
+
+.icon:hover {
+  transform: scale(1.1);
+  transition: transform 0.3s ease;
+}
+
+#github {
+  width: 55px;
+}
